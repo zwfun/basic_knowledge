@@ -26,6 +26,13 @@ module.exports = {
         children: [],
         sidebarDepth: 1, // 可选的, 默认值是 1
       },
+      {
+        title: "自动化测试",
+        path: "/test/",
+        collapsable: true, // 可选的, 默认值是 true,
+        children: [],
+        sidebarDepth: 1, // 可选的, 默认值是 1
+      },
     ],
     lastUpdated: "Last Updated",
   },

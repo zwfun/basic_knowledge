@@ -1,6 +1,6 @@
 # 算法与数据结构
 
-## 数据结构
+#### 数据结构
 
 - 数组
 - 链表
@@ -11,7 +11,7 @@
 - 栈
 - 图
   
-## 算法
+#### 算法
 
 - 分治
 - 动态规划
@@ -22,6 +22,6 @@
 - 去重
   
 
-## 参考资料
+#### 参考资料
   
 - [基础算法与数据结构实现](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)

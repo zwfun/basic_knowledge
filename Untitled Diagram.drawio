@@ -1,1 +1,213 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T05:56:50.408Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.4" etag="KaUr7dBniW_-oFewQfhK" type="github"><diagram id="uSymOwmCx7jtTEfuUwOD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T07:10:59.592Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="CUFSDpnBnkdnJXVZKV4x" version="14.4.4" type="github">
+  <diagram id="uSymOwmCx7jtTEfuUwOD" name="Page-1">
+    <mxGraphModel dx="1984" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-1" target="MqOfo1RNC_Dmxf5nQjIF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-1" value="三月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-2" target="MqOfo1RNC_Dmxf5nQjIF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-2" value="四月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-3" target="MqOfo1RNC_Dmxf5nQjIF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-3" value="五月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-4" target="MqOfo1RNC_Dmxf5nQjIF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-4" value="六月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-5" target="MqOfo1RNC_Dmxf5nQjIF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-5" value="七月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-6" value="后续" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-7" target="MqOfo1RNC_Dmxf5nQjIF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-7" value="方案1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-15" value="把pc 秀秀web考&lt;br&gt;一份出来改成海报派用户体系&lt;br&gt;后续再重新做一套方案" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="50" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-17" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-15" target="MqOfo1RNC_Dmxf5nQjIF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="180" as="sourcePoint" />
+            <mxPoint x="-30" y="130" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-18" value="做拷贝项目前的准备 (&lt;br&gt;技术修改可能会放弃他之前的egg, 感觉没什么用)。&lt;br&gt;风险点： 1、连城那边觉得志彬那边主流程不对，&lt;br&gt;这个还没确定要不要改，&lt;br&gt;如果要改就要等待4月志彬改版好了再做进一步迁移。&lt;br&gt;如果不修改估计得两周时间&lt;br&gt;2、设计师侧的oa登录是不是需要依赖oa平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="320" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-19" value="" style="shape=flexArrow;endArrow=classic;html=1;width=10;endSize=4.8500000000000005;" edge="1" parent="1" target="MqOfo1RNC_Dmxf5nQjIF-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37.91434241333363" y="240.00005772555772" as="sourcePoint" />
+            <mxPoint x="42.08000000000001" y="280.06" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-20" value="&lt;font style=&quot;font-size: 6px&quot;&gt;psd解析先暂时跳过。&lt;br&gt;估计4月初或者到4月中旬才能搭建项目完成。&lt;br&gt;然后再做字体相关能力提升，&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;字体特效的还原先不考虑。&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;贴纸整理。&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;风险点：&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;模版编辑器反馈入口这种接第三方平台&lt;br&gt;时间不好评估&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-10" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-21" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1" target="MqOfo1RNC_Dmxf5nQjIF-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184" y="200" as="sourcePoint" />
+            <mxPoint x="170" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="184" y="180" />
+              <mxPoint x="184" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-23" value="&lt;font style=&quot;font-size: 6px&quot;&gt;1、&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;图框样式的还原&lt;br&gt;2、&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;素材能力提升&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;风险点：上传剪切蒙版自动识别&lt;br&gt;为图框是不是依赖ps解析&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-24" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="240" as="sourcePoint" />
+            <mxPoint x="320" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-27" value="优点： 能够推进项目的持续进展可以看到成果&lt;br&gt;&lt;br&gt;缺点： 项目迭代到后面会越来越难以维护再开发新的一套那增强功能的开发就会减慢速度&lt;br&gt;&lt;br&gt;问题：1、设计师一套体系那用户侧应该还有一套体系这个没看到在哪里体现" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="70" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-28" value="1、底层能力打通&lt;br&gt;2、编辑器基础能力优化" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-29" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MqOfo1RNC_Dmxf5nQjIF-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="180" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-30" value="1、这时候初步的功能已经&lt;br&gt;能够使用了&amp;nbsp; &lt;br&gt;释放一个人力来重新&lt;br&gt;开发一套新的编辑器。 &lt;br&gt;后续就版本的迭代就一个人就好&lt;br&gt;2、如果见到效果了&lt;br&gt;新一套编辑器有利于后续的迭代&lt;br&gt;不然按照现有的这套只会&lt;br&gt;越来越难维护" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="270" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-31" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1" target="MqOfo1RNC_Dmxf5nQjIF-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="250" as="sourcePoint" />
+            <mxPoint x="700" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-32" target="MqOfo1RNC_Dmxf5nQjIF-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-32" value="方案2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="870" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-33" value="重新开发一套" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="650" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-34" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="770" as="sourcePoint" />
+            <mxPoint x="-210" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-35" target="MqOfo1RNC_Dmxf5nQjIF-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-35" value="三月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="870" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-37" value="前期的技术准备" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-38" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="910" as="sourcePoint" />
+            <mxPoint x="-10" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-39" target="MqOfo1RNC_Dmxf5nQjIF-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-46" value="三月后" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MqOfo1RNC_Dmxf5nQjIF-44">
+          <mxGeometry x="-0.019" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-39" value="四月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-40" value="四月开始开发，两个人至少&lt;br&gt;花三个月时间" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-42" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-40" target="MqOfo1RNC_Dmxf5nQjIF-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="890" as="sourcePoint" />
+            <mxPoint x="340" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-43" target="MqOfo1RNC_Dmxf5nQjIF-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-43" value="七月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-47" value="这个时候新的编辑器应该能够&lt;br&gt;达到现有的功能(去除掉暂时不需要的pc 秀秀web已有的功能，&lt;br&gt;编辑器的能力应该能达到方案一六月的水平)&lt;br&gt;，但是增强的功能没有" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="965" width="475" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-48" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1" target="MqOfo1RNC_Dmxf5nQjIF-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="910" as="sourcePoint" />
+            <mxPoint x="340" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-50" value="后续" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-52" value="后续的迭代就会比较轻松&lt;br&gt;一点了" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="710" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-54" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="980" as="sourcePoint" />
+            <mxPoint x="490" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-55" value="优点： 重新开发一套有利于后续的迭代，项目如果出成果了要增加新的功能都会比较顺利&lt;br&gt;&lt;br&gt;缺点： 短期内项目会被搁置看不到效果，还有前期开发编辑器虽然预估了三个月但是中间出现问题的话就要加排期了&lt;br&gt;&lt;br&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="770" width="110" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-56" value="方案3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-57" value="继续沿用目前这一套(&lt;font color=&quot;#ff3333&quot;&gt;不建议&lt;/font&gt;)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1090" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-58" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqOfo1RNC_Dmxf5nQjIF-57" target="MqOfo1RNC_Dmxf5nQjIF-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="1080" as="sourcePoint" />
+            <mxPoint x="-70" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-59" value="优点： 人员和功能可以共用，如果分开后续如果没有任何技术配合就要做两套重复的功能了&lt;br&gt;&lt;br&gt;缺点：多套用户体系和资源加载会让整个项目不可控和难以维护。到时候两边的功能和资源如果相互制约的话项目只会越来越慢直到重新来过" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1220" width="110" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MqOfo1RNC_Dmxf5nQjIF-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="1150" as="sourcePoint" />
+            <mxPoint x="500" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
